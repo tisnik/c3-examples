@@ -1,0 +1,20 @@
+module containers;
+import std::io;
+
+fn void main()
+{
+    int[10] a = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+    io::printf("a=%s\n", a);
+
+    int[] b = a[1 .. ^2];
+    io::printf("b=%s\n", b);
+
+    int[] c = b[1 .. ^2];
+    io::printf("c=%s\n", c);
+
+    int[] d = c[1 .. ^2];
+    io::printf("d=%s\n", d);
+
+    int[] e = d[1 .. ^2];
+    io::printf("e=%s\n", e);
+}
