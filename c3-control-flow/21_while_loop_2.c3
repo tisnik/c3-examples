@@ -7,6 +7,9 @@ fn void main()
 
     int i = 0;
     while (i<a.len) {
+        if (a[i] >= 6) {
+            break;
+        }
         io::printfn("item: %s", a[i]);
         i++;
     }
