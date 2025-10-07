@@ -1,3 +1,12 @@
+/*
+ * Seriál Programovací jazyk C3
+ * https://www.root.cz/serialy/programovaci-jazyk-c3/
+ *
+ * Demonstrační příklad použitý v článku:
+ * Programovací jazyk C3: evoluce, nikoli revoluce
+ * https://www.root.cz/clanky/programovaci-jazyk-c3-evoluce-nikoli-revoluce/
+ */
+
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
