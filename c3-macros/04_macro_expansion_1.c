@@ -1,11 +1,6 @@
 #include <stdio.h>
 
-#define add_mul(x, y) (x)*(y)+1
-
-int sqr(int x)
-{
-    return x*x;
-}
+#define add_mul(a, b) (a)*(b)+1
 
 void main(void)
 {
