@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define mul(x, y) (x)*(y)
+#define mul(a, b) (a)*(b)
 
 void main(void)
 {
