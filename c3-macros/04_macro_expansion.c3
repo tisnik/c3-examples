@@ -2,9 +2,9 @@ module macros;
 
 import std::io;
 
-macro add_mul(x, y)
+macro add_mul(a, b)
 {
-    return x*y+1;
+    return a*b+1;
 }
 
 fn void main()
