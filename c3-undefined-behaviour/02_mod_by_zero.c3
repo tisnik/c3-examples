@@ -3,7 +3,7 @@ import std::io;
 
 fn int mod(int a, int b)
 {
-    return a/b;
+    return a%b;
 }
 
 fn void main()
