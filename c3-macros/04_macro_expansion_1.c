@@ -1,3 +1,13 @@
+/*
+ * Seriál Programovací jazyk C3
+ * https://www.root.cz/serialy/programovaci-jazyk-c3/
+ * --------------------------------------------------
+ *
+ * Demonstrační příklad použitý v článku:
+ * Systém maker v programovacím jazyku C3
+ * https://www.root.cz/clanky/system-maker-v-programovacim-jazyku-c3/
+ */
+
 #include <stdio.h>
 
 #define add_mul(a, b) (a)*(b)+1
