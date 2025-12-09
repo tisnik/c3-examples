@@ -1,4 +1,4 @@
-module functions;
+module operator_overloading;
 import std::io;
 
 struct Vector3d
