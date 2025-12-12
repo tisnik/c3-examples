@@ -1,3 +1,13 @@
+/*
+ * Seriál Programovací jazyk C3
+ * https://www.root.cz/serialy/programovaci-jazyk-c3/
+ * --------------------------------------------------
+ *
+ * Demonstrační příklad použitý v článku:
+ * Přetěžování operátorů v programovacím jazyce C3
+ * https://www.root.cz/clanky/pretezovani-operatoru-v-programovacim-jazyce-c3/
+ */
+
 module operator_overloading;
 import std::io;
 
